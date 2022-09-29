@@ -1,26 +1,22 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nancy(Leqi) Wan
+Software Engineer <a href="https://www.linkedin.com/company/yumebau-inc/">@Yumebau</a>, Unity Developer, XR Enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://nancywan1004@gmail.com">nancywan1004@gmail.com</a> | <span>778-251-9798</span>
 </div>
 
 
-## Currently
+## Skills
+<div> Programming: C#, Python, JavaScript/TypeScript, ReactJS, NodeJS, C++, Java, SQL, GraphQL </div>
+<div> Tools & Services: Unity, Azure(certified), AWS, Firebase, Unreal4 </div>
+<div> Soft Skills: Inter-disciplinary teamwork, agile development, efficient communication </div> 
 
-Standing on the shoulders of giants
-
-### Specialized in
+### Work Experience
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Featured Projects
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
@@ -82,10 +78,5 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
